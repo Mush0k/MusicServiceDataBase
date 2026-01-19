@@ -1,0 +1,34 @@
+[
+  {
+    "credit_id": 1,
+    "credit_name": "Вокалист"
+  },
+  {
+    "credit_id": 2,
+    "credit_name": "Гитарист"
+  },
+  {
+    "credit_id": 3,
+    "credit_name": "Бас-гитарист"
+  },
+  {
+    "credit_id": 4,
+    "credit_name": "Барабанщик"
+  },
+  {
+    "credit_id": 5,
+    "credit_name": "Клавишник"
+  },
+  {
+    "credit_id": 6,
+    "credit_name": "Продюсер"
+  },
+  {
+    "credit_id": 7,
+    "credit_name": "Композитор"
+  },
+  {
+    "credit_id": 8,
+    "credit_name": "Текст"
+  }
+]

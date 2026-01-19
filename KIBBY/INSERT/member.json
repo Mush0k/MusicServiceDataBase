@@ -1,0 +1,82 @@
+[
+  {
+    "member_id": 1,
+    "full_name": "James Euringer",
+    "stage_name": "Jimmy Urine",
+    "birth_date": "1969-09-07",
+    "member_bio": "Американский автор-исполнитель и композитор. Основатель и вокалист группы Mindless Self Indulgence.",
+    "member_photo_url": "url_jimmy.jpg"
+  },
+  {
+    "member_id": 2,
+    "full_name": "Steve Montano",
+    "stage_name": "Steve, Righ?",
+    "birth_date": "1970-09-22",
+    "member_bio": "Американский музыкант, гитарист группы Mindless Self Indulgence. Участник проекта The Left Rights.",
+    "member_photo_url": "url_steve.jpg"
+  },
+  {
+    "member_id": 3,
+    "full_name": "Lindsey Way",
+    "stage_name": "Lyn-Z",
+    "birth_date": "1976-05-22",
+    "member_bio": "Американская художница и музыкант. Бас-гитаристка группы Mindless Self Indulgence с 2001 года.",
+    "member_photo_url": "url_lynz.jpg"
+  },
+  {
+    "member_id": 4,
+    "full_name": "Jennifer Dunn",
+    "stage_name": "Kitty",
+    "birth_date": "1970-01-01",
+    "member_bio": "Американский музыкант, бессменный барабанщик Mindless Self Indulgence.",
+    "member_photo_url": "url_kitty.jpg"
+  },
+  {
+    "member_id": 5,
+    "full_name": "Steve Naghavi",
+    "stage_name": "Steve Naghavi",
+    "birth_date": "1970-05-25",
+    "member_bio": "Немецкий музыкант ирано-английского происхождения. Основатель, вокалист и автор песен группы And One.",
+    "member_photo_url": "url_naghavi.jpg"
+  },
+  {
+    "member_id": 6,
+    "full_name": "Joke Jay",
+    "stage_name": "Joke Jay",
+    "birth_date": "1971-09-12",
+    "member_bio": "Немецкий музыкант, барабанщик и вокалист. Участник группы And One (1992–2001, 2011–н.в.).",
+    "member_photo_url": "url_jokejay.jpg"
+  },
+  {
+    "member_id": 7,
+    "full_name": "Rick Schah",
+    "stage_name": "Rick Schah",
+    "birth_date": "1972-04-10",
+    "member_bio": "Немецкий музыкант, клавишник и продюсер. Участник коллектива And One.",
+    "member_photo_url": "url_rick.jpg"
+  },
+{
+  "member_id": 8,
+  "full_name": "Anders Hagström",
+  "stage_name": "Anders Hagström",
+  "birth_date": null,
+  "member_bio": "Шведский музыкант, вокалист, автор песен и программист. Основатель и постоянный участник группы Ashbury Heights (с 2005 года).",
+  "member_photo_url": "url_anders_hagstrom.jpg"
+},
+{
+  "member_id": 9,
+  "full_name": "Yasmine Uhlin",
+  "stage_name": "Yasmine Uhlin",
+  "birth_date": null,
+  "member_bio": "Шведская певица и вокалистка. Участница группы Ashbury Heights (2005–2010, 2012–2018).",
+  "member_photo_url": "url_yasmine_uhlin.jpg"
+},
+{
+  "member_id": 10,
+  "full_name": "Thea Hjelm",
+  "stage_name": "Tea-Fay",
+  "birth_date": null,
+  "member_bio": "Шведская певица и вокалистка. Присоединилась к Ashbury Heights в 2019 году.",
+  "member_photo_url": "url_teafay.jpg"
+}
+]

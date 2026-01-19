@@ -1,0 +1,8 @@
+[
+  {"genre_id": 1, "genre_name": "Industrial Rock"},
+  {"genre_id": 2, "genre_name": "Synth-pop"},
+  {"genre_id": 3, "genre_name": "EBM"},
+  {"genre_id": 4, "genre_name": "Punk"},
+  {"genre_id": 5, "genre_name": "Electronic"},
+  {"genre_id": 6, "genre_name": "Alternative"}
+]

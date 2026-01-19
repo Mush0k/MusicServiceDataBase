@@ -1,0 +1,8 @@
+[
+  {"country_code": "RU", "country_name": "Россия"},
+  {"country_code": "US", "country_name": "Соединенные Штаты Америки"},
+  {"country_code": "DE", "country_name": "Германия"},
+  {"country_code": "SE", "country_name": "Швеция"},
+  {"country_code": "CA", "country_name": "Канада"},
+  {"country_code": "UK", "country_name": "Великобритания"}
+]

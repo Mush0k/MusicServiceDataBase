@@ -1,0 +1,83 @@
+[
+  {
+    "album_id": 300,
+    "album_title": "Three Cheers For The Newlydeads",
+    "artist_id": 204,
+    "release_date": "2007-10-13",
+    "cover_url": "url_plm_find_ivan.jpg"
+  },
+  {
+    "album_id": 301,
+    "album_title": "A Lifetime in the Service of Darkness",
+    "artist_id": 204,
+    "release_date": "2024-10-03",
+    "cover_url": "url_plm_krasotka.jpg"
+  },
+  {
+    "album_id": 302,
+    "album_title": "Achtung 80",
+    "artist_id": 203,
+    "release_date": "2014-08-08",
+    "cover_url": "url_andone_achtung.jpg"
+  },
+  {
+    "album_id": 303,
+    "album_title": "Bodypop",
+    "artist_id": 203,
+    "release_date": "2006-09-01",
+    "cover_url": "url_andone_bodypop.jpg"
+  },
+  {
+    "album_id": 304,
+    "album_title": "Back Home",
+    "artist_id": 203,
+    "release_date": "2007-11-05",
+    "cover_url": "url_andone_backhome.jpg"
+  },
+  {
+    "album_id": 305,
+    "album_title": "You'll Rebel to Anything",
+    "artist_id": 200,
+    "release_date": "2005-04-12",
+    "cover_url": "url_msi_rebel.jpg"
+  },
+  {
+    "album_id": 306,
+    "album_title": "MSI B-SIDES vol.1",
+    "artist_id": 200,
+    "release_date": "2024-07-15",
+    "cover_url": "url_msi_bsides.jpg"
+  },
+  {
+    "album_id": 307,
+    "album_title": "How I Learned to Love MSI",
+    "artist_id": 200,
+    "release_date": "2013-05-24",
+    "cover_url": "url_msi_howilearned.jpg"
+  }, 
+  
+  { 
+    "album_id": 308,
+    "album_title": "If", 
+    "artist_id": 200, 
+    "release_date": "2008-03-25", 
+    "cover_url": "if_cover.jpg" 
+  },
+
+  {
+    "album_id": 309,
+    "album_title": "Bad Choices Made Easy",
+    "artist_id": 201,
+    "release_date": "2010-11-09",
+    "cover_url": "url_lr_choices.jpg"
+  },
+
+  {
+    "album_id": 310,
+    "album_title": "Euringer",
+    "artist_id": 202,
+    "release_date": "2018-10-19",
+    "cover_url": "url_euringer_album.jpg"
+  }
+
+]

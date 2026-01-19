@@ -1,0 +1,21 @@
+[
+  { "artist_id": 200, "member_id": 1 },
+  { "artist_id": 200, "member_id": 2 },
+  { "artist_id": 200, "member_id": 3 },
+  { "artist_id": 200, "member_id": 4 },
+
+ 
+  { "artist_id": 201, "member_id": 1 },
+  { "artist_id": 201, "member_id": 2 },
+
+  { "artist_id": 202, "member_id": 1 },
+
+ 
+  { "artist_id": 203, "member_id": 5 },
+  { "artist_id": 203, "member_id": 6 },
+  { "artist_id": 203, "member_id": 7 },
+
+  { "artist_id": 204, "member_id": 8 },
+  { "artist_id": 204, "member_id": 9 },
+  { "artist_id": 204, "member_id": 10 }
+]

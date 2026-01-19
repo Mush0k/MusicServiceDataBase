@@ -1,0 +1,52 @@
+[
+{
+  "user_id": 1,
+  "user_name": "kibby",
+  "email": "kibby@mail.ru",
+  "password_hash": "ef92b778bafe421e592046c09",
+  "registration_date": "2024-01-10 12:00:00",
+  "country_code": "RU",
+  "avatar_url": "ava_1.jpg",
+  "sub_type_id": 2
+},
+{
+  "user_id": 2,
+  "user_name": "mewo0",
+  "email": "mewo0@gmail.com",
+  "password_hash": "5e884898da28047151d0e56f8",
+  "registration_date": "2024-02-15 14:30:00",
+  "country_code": "DE",
+  "avatar_url": "ava_2.jpg",
+  "sub_type_id": 1
+},
+{
+  "user_id": 3,
+  "user_name": "cake_001",
+  "email": "cakekkk@gmail.com",
+  "password_hash": "f7fbba6ce0634289876e6d1b",
+  "registration_date": "2024-03-01 09:15:00",
+  "country_code": "US",
+  "avatar_url": "ava_3.jpg",
+  "sub_type_id": 2
+},
+{
+  "user_id": 4,
+  "user_name": "mary99_k",
+  "email": "mary09@gmail.com",
+  "password_hash": "d41d8cd98f00b204e9800998",
+  "registration_date": "2024-03-10 11:00:00",
+  "country_code": "CA",
+  "avatar_url": "ava_4.jpg",
+  "sub_type_id": 3
+},
+{
+  "user_id": 5,
+  "user_name": "cookie888",
+  "email": "cookie888_wow@yandex.ru",
+  "password_hash": "c4ca4238a0b923820dcc509a",
+  "registration_date": "2024-03-15 16:20:00",
+  "country_code": "RU",
+  "avatar_url": "ava_5.jpg",
+  "sub_type_id": 4
+}
+]

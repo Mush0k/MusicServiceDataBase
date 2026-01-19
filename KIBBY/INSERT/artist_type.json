@@ -1,0 +1,27 @@
+[
+  {
+    "type_id": 1,
+    "type_name": "Соло"
+  },
+
+  {
+    "type_id": 2,
+    "type_name": "Дуэт"
+  },
+
+  {
+    "type_id": 3,
+    "type_name": "Трио"
+  },
+
+  {
+    "type_id": 4,
+    "type_name": "Квартет"
+  },
+
+  {
+    "type_id": 5,
+    "type_name": "Группа"
+  }
+
+]

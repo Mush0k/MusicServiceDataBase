@@ -1,0 +1,47 @@
+[
+
+{ 
+"playlist_id": 1, 
+"playlist_title": "Favorite", 
+"description": "", 
+"creation_date": "2024-03-05 10:00:00", 
+"cover_url": "c1.jpg", 
+"user_id": 3 
+},
+
+{ 
+"playlist_id": 2, 
+"playlist_title": "Industrial Mix", 
+"description": "Just for fun", 
+"creation_date": "2024-03-10 18:45:00", 
+"cover_url": "c2.jpg", 
+"user_id": 2 
+},
+
+{ 
+"playlist_id": 3, 
+"playlist_title": "А!", 
+"description": "!!!", 
+"creation_date": "2024-03-12 21:00:00", 
+"cover_url": "c3.jpg", 
+"user_id": 1 
+},
+
+{ 
+"playlist_id": 4, 
+"playlist_title": "Vibe", 
+"description": "Alternative UK", 
+"creation_date": "2024-03-15 12:00:00", 
+"cover_url": "c4.jpg", 
+"user_id": 4 },
+
+{ 
+"playlist_id": 5, 
+"playlist_title": "001", 
+"description": "", 
+"creation_date": "2024-03-20 23:00:00", 
+"cover_url": "c5.jpg", 
+"user_id": 5 
+}
+
+]

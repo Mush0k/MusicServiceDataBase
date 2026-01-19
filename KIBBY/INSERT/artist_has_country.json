@@ -1,0 +1,9 @@
+[
+  { "artist_id": 200, "country_code": "US" },
+  { "artist_id": 200, "country_code": "UK" },
+  { "artist_id": 201, "country_code": "US" },
+  { "artist_id": 202, "country_code": "US" },
+  { "artist_id": 203, "country_code": "DE" },
+  { "artist_id": 204, "country_code": "US" },
+  { "artist_id": 204, "country_code": "SE" }
+]

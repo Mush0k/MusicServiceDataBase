@@ -1,0 +1,42 @@
+[
+  {
+    "artist_id": 200,
+    "artist_name": "Mindless Self Indulgence",
+    "founded_year": "1997",
+    "artist_bio": "Американская группа из Нью-Йорка. Музыкальный стиль сочетает в себе элементы панк-рока, электроники и индастриала.",
+    "artist_photo_url": "url_msi_band.jpg",
+    "artist_type_id": 5
+  },
+  {
+    "artist_id": 201,
+    "artist_name": "The Left Rights",
+    "founded_year": "2002",
+    "artist_bio": "Сайд-проект участников MSI Джеймса Юрингера и Стива Монтано. Специализируется на экспериментальной электронной музыке.",
+    "artist_photo_url": "url_left_rights.jpg",
+    "artist_type_id": 2
+  },
+  {
+    "artist_id": 202,
+    "artist_name": "Euringer",
+    "founded_year": "2018",
+    "artist_bio": "Сольный проект Джеймса Юрингера (Jimmy Urine). Дебютный одноименный альбом выпущен в октябре 2018 года.",
+    "artist_photo_url": "url_euringer.jpg",
+    "artist_type_id": 1
+  },
+  {
+    "artist_id": 203,
+    "artist_name": "And One",
+    "founded_year": "1989",
+    "artist_bio": "Немецкая музыкальная группа, работающая в стилях синти-поп и EBM. Основана в Берлине Стивом Нагави и Крисом Рутцем.",
+    "artist_photo_url": "url_and_one.jpg",
+    "artist_type_id": 3
+  },
+  {
+    "artist_id": 204,
+    "artist_name": "Ashbury Heights",
+    "founded_year": "2005",
+    "artist_bio": "Шведский электронный музыкальный дуэт из Сундсвалля.",
+    "artist_photo_url": "url_plm.jpg",
+    "artist_type_id": 2
+  }
+]
